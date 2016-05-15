@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\XiSheng02.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{3434C26D-742E-47B7-97D3-3254311BFF86}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\XiSheng02.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\XiSheng02Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D37CC9BB-1903-430C-A4A4-19B10B7763DF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\XiSheng02">
+			<UniqueIdentifier>{46119AEF-6445-40FE-8EC5-75381340F62C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\XiSheng02\XiSheng02.Build.cs">
+			<Filter>Source\XiSheng02</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\XiSheng02\XiSheng02.cpp">
+			<Filter>Source\XiSheng02</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\XiSheng02\XiSheng02.h">
+			<Filter>Source\XiSheng02</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\XiSheng02\XiSheng02Character.cpp">
+			<Filter>Source\XiSheng02</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\XiSheng02\XiSheng02Character.h">
+			<Filter>Source\XiSheng02</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\XiSheng02\XiSheng02GameMode.cpp">
+			<Filter>Source\XiSheng02</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\XiSheng02\XiSheng02GameMode.h">
+			<Filter>Source\XiSheng02</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
